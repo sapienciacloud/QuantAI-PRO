@@ -1,0 +1,6 @@
+{
+  "name": "QuantAI MT5 - Algorithmic Trading Bot & Dashboard",
+  "description": "Plataforma quantitativa para MetaTrader 5 com modelos de Inteligência Artificial, backtesting visual, monitoramento em tempo real de métricas e gerador de código Python modular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
